@@ -46,6 +46,7 @@
 * [Ride With GPS](https://ridewithgps.com/)
 * [Strava Route Builder](https://www.strava.com/routes/new)
 * [VeloViewer](https://veloviewer.com/)
+* [BikeCompanion](https://bikecompanion.app/) - Cycling GPS app and route planner, with navigation, offline maps, and ride tracking
 
 ### 🔧 Tools
 * [Relive](https://www.relive.cc/) - Recap video generated to your mailbox post each activity
